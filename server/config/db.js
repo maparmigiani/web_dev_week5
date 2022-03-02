@@ -4,7 +4,11 @@
 */
 
 module.exports = {
-
-    "URI" : "mongodb://127.0.0.1:27017/contact_information"
+//"mongodb+srv://maparmigiani:Gatinha1992@@cluster0.dsv1u.mongodb.net/bussiness_information?retryWrites=true&w=majority"
+    "URI": "mongodb+srv://maparmigiani:Gatinha1992@@cluster0.dsv1u.mongodb.net/bussiness_information?retryWrites=true&w=majority"
 }
 //contact_information
+
+//bussiness_information
+
+//informations
